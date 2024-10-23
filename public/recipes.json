@@ -14,8 +14,8 @@
       "1 green bell pepper, sliced",
       "1 onion, sliced"
     ],
-    "preparing_time": "30 min",
-    "calories": "230 calories"
+    "preparing_time": 30,
+    "calories":230
   },
   {
     "recipe_id": 2,
@@ -32,8 +32,8 @@
       "2 tbsp olive oil",
       "100 ml red wine"
     ],
-    "preparing_time": "45 min",
-    "calories": "400 calories"
+    "preparing_time": 45,
+    "calories": 400
   },
   {
     "recipe_id": 3,
@@ -50,8 +50,8 @@
       "50 g snow peas",
       "1 tsp sesame oil"
     ],
-    "preparing_time": "20 min",
-    "calories": "180 calories"
+    "preparing_time": 20,
+    "calories": 180
   },
   {
     "recipe_id": 4,
@@ -68,8 +68,8 @@
       "2 tbsp sour cream",
       "1 tbsp taco seasoning"
     ],
-    "preparing_time": "25 min",
-    "calories": "350 calories"
+    "preparing_time": 25,
+    "calories": 350
   },
   {
     "recipe_id": 5,
@@ -86,8 +86,8 @@
       "2 tbsp butter",
       "2 tbsp olive oil"
     ],
-    "preparing_time": "40 min",
-    "calories": "320 calories"
+    "preparing_time": 40,
+    "calories": 320
   },
   {
     "recipe_id": 6,
@@ -102,7 +102,7 @@
       "1 tbsp olive oil",
       "1 egg, poached"
     ],
-    "preparing_time": "10 min",
-    "calories": "250 calories"
+    "preparing_time": 10,
+    "calories": 250
   }
 ]
