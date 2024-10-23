@@ -2,7 +2,7 @@
   {
     "recipe_id": 1,
     "recipe_name": "Grilled Chicken with Basil",
-    "recipe_image": "https://example.com/grilled-chicken.jpg",
+    "recipe_image": "https://i.ibb.co/X2VQq73/image.jpg",
     "short_description": "A delicious grilled chicken dish with fresh basil and a hint of soy sauce.",
     "ingredients": [
       "550 g chicken",
@@ -20,7 +20,7 @@
   {
     "recipe_id": 2,
     "recipe_name": "Spaghetti Bolognese",
-    "recipe_image": "https://example.com/spaghetti-bolognese.jpg",
+    "recipe_image": "https://i.ibb.co/BqXYygF/image.jpg",
     "short_description": "A classic Italian pasta dish with a rich, meaty sauce.",
     "ingredients": [
       "500 g spaghetti",
@@ -38,7 +38,7 @@
   {
     "recipe_id": 3,
     "recipe_name": "Vegetable Stir Fry",
-    "recipe_image": "https://example.com/vegetable-stir-fry.jpg",
+    "recipe_image": "https://i.ibb.co/BqXYygF/image.jpg",
     "short_description": "A quick and healthy stir fry with fresh vegetables and soy sauce.",
     "ingredients": [
       "100 g broccoli",
@@ -56,7 +56,7 @@
   {
     "recipe_id": 4,
     "recipe_name": "Beef Tacos",
-    "recipe_image": "https://example.com/beef-tacos.jpg",
+    "recipe_image": "https://i.ibb.co/X2VQq73/image.jpg",
     "short_description": "Tasty beef tacos with fresh toppings and soft tortillas.",
     "ingredients": [
       "300 g minced beef",
@@ -74,7 +74,7 @@
   {
     "recipe_id": 5,
     "recipe_name": "Mushroom Risotto",
-    "recipe_image": "https://example.com/mushroom-risotto.jpg",
+    "recipe_image": "https://i.ibb.co/X2VQq73/image.jpg",
     "short_description": "A creamy mushroom risotto with parmesan and garlic.",
     "ingredients": [
       "200 g arborio rice",
@@ -92,7 +92,7 @@
   {
     "recipe_id": 6,
     "recipe_name": "Avocado Toast",
-    "recipe_image": "https://example.com/avocado-toast.jpg",
+    "recipe_image": "https://i.ibb.co/BqXYygF/image.jpg",
     "short_description": "Simple and healthy avocado toast with a touch of lemon.",
     "ingredients": [
       "2 slices of whole grain bread",
